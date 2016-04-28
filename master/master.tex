@@ -1,0 +1,31 @@
+\documentclass[10pt,twoside,twocolumn]{article}
+\usepackage[bg-letter]{dnd} % Options: bg-a4, bg-letter, bg-full, bg-print, bg-none.
+%\usepackage[ngerman]{babel} % Trennungsregeln und autom. Überschriften in n. dt. RS
+\usepackage[utf8]{inputenc}
+
+%Extra packeges to handle automatic bookmarks
+\usepackage[hidelinks]{hyperref}
+%Iodo notes package
+\usepackage{todonotes}
+
+% Start document
+\begin{document}
+\fontfamily{ppl}\selectfont % Set text font
+
+% Your content goes here
+
+\input{formalities/copyrights}
+
+\newpage
+\tableofcontents
+
+\input{formalities/introduction}
+\input{content/races}
+\input{content/classes}
+\input{content/equipment}
+\input{content/monsters}
+\input{content/example}
+\input{formalities/acknowledgements}
+
+% End document
+\end{document}
