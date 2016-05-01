@@ -17,7 +17,11 @@
 \contentsline {subsection}{\numberline {}Monster1}{9}{subsection.6.1}
 \contentsline {subsection}{\numberline {}Monster1}{9}{subsection.6.2}
 \contentsline {subsection}{\numberline {}Monster1}{9}{subsection.6.3}
-\contentsline {section}{\numberline {}Example Section}{10}{section.7}
-\contentsline {subsection}{\numberline {}Fun with boxes}{10}{subsection.7.1}
-\contentsline {subsubsection}{\numberline {}Even more fun!}{10}{subsubsection.7.1.1}
-\contentsline {section}{\numberline {}Acknowledgments}{11}{section.8}
+\contentsline {section}{\numberline {}Spells}{10}{section.7}
+\contentsline {subsection}{\numberline {}Spells1}{10}{subsection.7.1}
+\contentsline {subsection}{\numberline {}Spells2}{10}{subsection.7.2}
+\contentsline {subsection}{\numberline {}Spells3}{10}{subsection.7.3}
+\contentsline {section}{\numberline {}Example Section}{11}{section.8}
+\contentsline {subsection}{\numberline {}Fun with boxes}{11}{subsection.8.1}
+\contentsline {subsubsection}{\numberline {}Even more fun!}{11}{subsubsection.8.1.1}
+\contentsline {section}{\numberline {}Acknowledgments}{12}{section.9}
