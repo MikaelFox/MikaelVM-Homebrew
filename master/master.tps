@@ -11,14 +11,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1562
-NormalPos.bottom=539
+NormalPos.right=651
+NormalPos.bottom=362
 Class=LaTeXView
 Document=master.tex
 
 [Frame0_View0,0]
 TopLine=0
-Cursor=404
+Cursor=0
 
 [Frame1]
 Flags=0
@@ -29,13 +29,13 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1562
-NormalPos.bottom=539
+NormalPos.right=651
+NormalPos.bottom=362
 Class=LaTeXView
 Document=content\example.tex
 
 [Frame1_View0,0]
-TopLine=32
+TopLine=39
 Cursor=1247
 
 [Frame2]
@@ -47,14 +47,14 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1562
-NormalPos.bottom=539
+NormalPos.right=651
+NormalPos.bottom=362
 Class=LaTeXView
 Document=content\races.tex
 
 [Frame2_View0,0]
 TopLine=0
-Cursor=75
+Cursor=267
 
 [Frame3]
 Flags=0
@@ -65,16 +65,16 @@ MaxPos.x=-1
 MaxPos.y=-1
 NormalPos.left=4
 NormalPos.top=26
-NormalPos.right=1562
-NormalPos.bottom=539
+NormalPos.right=651
+NormalPos.bottom=362
 Class=LaTeXView
 Document=content\races\tibbit.tex
 
 [Frame3_View0,0]
-TopLine=132
-Cursor=11808
+TopLine=0
+Cursor=0
 
 [SessionInfo]
 FrameCount=4
-ActiveFrame=3
+ActiveFrame=2
 
