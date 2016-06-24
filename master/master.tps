@@ -18,7 +18,7 @@ Document=master.tex
 
 [Frame0_View0,0]
 TopLine=0
-Cursor=404
+Cursor=859
 
 [Frame1]
 Flags=0
@@ -35,8 +35,8 @@ Class=LaTeXView
 Document=content\example.tex
 
 [Frame1_View0,0]
-TopLine=32
-Cursor=1247
+TopLine=15
+Cursor=454
 
 [Frame2]
 Flags=0
@@ -71,10 +71,46 @@ Class=LaTeXView
 Document=content\races\tibbit.tex
 
 [Frame3_View0,0]
-TopLine=132
-Cursor=11808
+TopLine=137
+Cursor=8840
+
+[Frame4]
+Flags=0
+ShowCmd=1
+MinPos.x=-1
+MinPos.y=-1
+MaxPos.x=-1
+MaxPos.y=-1
+NormalPos.left=4
+NormalPos.top=26
+NormalPos.right=1562
+NormalPos.bottom=539
+Class=LaTeXView
+Document=content\classes.tex
+
+[Frame4_View0,0]
+TopLine=0
+Cursor=164
+
+[Frame5]
+Flags=0
+ShowCmd=1
+MinPos.x=-1
+MinPos.y=-1
+MaxPos.x=-1
+MaxPos.y=-1
+NormalPos.left=4
+NormalPos.top=26
+NormalPos.right=1562
+NormalPos.bottom=539
+Class=LaTeXView
+Document=content\background.tex
+
+[Frame5_View0,0]
+TopLine=3
+Cursor=739
 
 [SessionInfo]
-FrameCount=4
-ActiveFrame=3
+FrameCount=6
+ActiveFrame=5
 

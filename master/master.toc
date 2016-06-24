@@ -1,27 +1,47 @@
 \contentsline {section}{\numberline {}Copyrights}{1}{section.1}
-\contentsline {section}{\numberline {}Introduction}{2}{section.2}
-\contentsline {section}{\numberline {}Races}{3}{section.3}
-\contentsline {subsection}{\numberline {}Tibbit - Conversion 3.5e to 5e}{3}{subsection.3.1}
-\contentsline {subsubsection}{\numberline {}Tibbit Racial Traits}{4}{subsubsection.3.1.1}
-\contentsline {subsection}{\numberline {}Race2}{5}{subsection.3.2}
-\contentsline {subsection}{\numberline {}Race3}{5}{subsection.3.3}
-\contentsline {section}{\numberline {}Classes}{6}{section.4}
-\contentsline {subsection}{\numberline {}SubClass1}{6}{subsection.4.1}
-\contentsline {subsection}{\numberline {}SubClass2}{6}{subsection.4.2}
-\contentsline {subsection}{\numberline {}SubClass3}{7}{subsection.4.3}
-\contentsline {section}{\numberline {}Equipment}{8}{section.5}
-\contentsline {subsection}{\numberline {}Equipment1}{8}{subsection.5.1}
-\contentsline {subsection}{\numberline {}Equipment2}{8}{subsection.5.2}
-\contentsline {subsection}{\numberline {}Equipment3}{8}{subsection.5.3}
-\contentsline {section}{\numberline {}Monsters}{9}{section.6}
-\contentsline {subsection}{\numberline {}Monster1}{9}{subsection.6.1}
-\contentsline {subsection}{\numberline {}Monster1}{9}{subsection.6.2}
-\contentsline {subsection}{\numberline {}Monster1}{9}{subsection.6.3}
-\contentsline {section}{\numberline {}Spells}{10}{section.7}
-\contentsline {subsection}{\numberline {}Spells1}{10}{subsection.7.1}
-\contentsline {subsection}{\numberline {}Spells2}{10}{subsection.7.2}
-\contentsline {subsection}{\numberline {}Spells3}{10}{subsection.7.3}
-\contentsline {section}{\numberline {}Example Section}{11}{section.8}
-\contentsline {subsection}{\numberline {}Fun with boxes}{11}{subsection.8.1}
-\contentsline {subsubsection}{\numberline {}Even more fun!}{11}{subsubsection.8.1.1}
-\contentsline {section}{\numberline {}Acknowledgments}{12}{section.9}
+\contentsline {section}{\numberline {}Introduction}{3}{section.2}
+\contentsline {section}{\numberline {}Races}{4}{section.3}
+\contentsline {subsection}{\numberline {}Tibbit - Conversion 3.5e to 5e}{4}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {}Tibbit Racial Traits}{5}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {}Race2}{6}{subsection.3.2}
+\contentsline {subsection}{\numberline {}Race3}{6}{subsection.3.3}
+\contentsline {section}{\numberline {}Classes}{7}{section.4}
+\contentsline {subsection}{\numberline {}SubClass1}{7}{subsection.4.1}
+\contentsline {subsection}{\numberline {}SubClass2}{7}{subsection.4.2}
+\contentsline {subsection}{\numberline {}SubClass3}{8}{subsection.4.3}
+\contentsline {section}{\numberline {}Fighter Martial Archetypes:}{9}{section.5}
+\contentsline {subsection}{\numberline {}Diehard}{9}{subsection.5.1}
+\contentsline {subsection}{\numberline {}Ideas}{9}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {}3rd level - Never say die!}{9}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {}7th level}{9}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {}10th level}{9}{subsubsection.5.2.3}
+\contentsline {subsubsection}{\numberline {}15th level}{9}{subsubsection.5.2.4}
+\contentsline {subsubsection}{\numberline {}18th level}{9}{subsubsection.5.2.5}
+\contentsline {section}{\numberline {}Arcane Tradition:}{9}{section.6}
+\contentsline {subsection}{\numberline {}School of Souls(WT)}{9}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {}2th level}{9}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {}6th level}{9}{subsubsection.6.1.2}
+\contentsline {subsubsection}{\numberline {}10th level}{9}{subsubsection.6.1.3}
+\contentsline {subsubsection}{\numberline {}14th level}{9}{subsubsection.6.1.4}
+\contentsline {section}{\numberline {}Backgrounds}{10}{section.7}
+\contentsline {subsection}{\numberline {}Time Traveller}{10}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {}The Reason}{10}{subsubsection.7.1.1}
+\contentsline {subsubsection}{\numberline {}Feature: }{10}{subsubsection.7.1.2}
+\contentsline {subsubsection}{\numberline {}Variant Time Traveller: Deja Wu}{10}{subsubsection.7.1.3}
+\contentsline {subsection}{\numberline {}Background2}{11}{subsection.7.2}
+\contentsline {section}{\numberline {}Equipment}{12}{section.8}
+\contentsline {subsection}{\numberline {}Equipment1}{12}{subsection.8.1}
+\contentsline {subsection}{\numberline {}Equipment2}{12}{subsection.8.2}
+\contentsline {subsection}{\numberline {}Equipment3}{12}{subsection.8.3}
+\contentsline {section}{\numberline {}Monsters}{13}{section.9}
+\contentsline {subsection}{\numberline {}Monster1}{13}{subsection.9.1}
+\contentsline {subsection}{\numberline {}Monster1}{13}{subsection.9.2}
+\contentsline {subsection}{\numberline {}Monster1}{13}{subsection.9.3}
+\contentsline {section}{\numberline {}Spells}{14}{section.10}
+\contentsline {subsection}{\numberline {}Spells1}{14}{subsection.10.1}
+\contentsline {subsection}{\numberline {}Spells2}{14}{subsection.10.2}
+\contentsline {subsection}{\numberline {}Spells3}{14}{subsection.10.3}
+\contentsline {section}{\numberline {}Example Section}{15}{section.11}
+\contentsline {subsection}{\numberline {}Fun with boxes}{15}{subsection.11.1}
+\contentsline {subsubsection}{\numberline {}Even more fun!}{15}{subsubsection.11.1.1}
+\contentsline {section}{\numberline {}Acknowledgments}{16}{section.12}
